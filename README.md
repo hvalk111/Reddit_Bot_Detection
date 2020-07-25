@@ -12,7 +12,7 @@
 
 ## [Data Preprocessing](NLP_Preprocessing.ipynb)
 
-> Each reddit comment was stringently preprocessed before being passed into a model. Non-alphanumeric characters were removed with a RegexpTokenizer. Next misspelled words were corrected via the Speller function in the autocorrect module. All english stopwords were removed, and each word was stemmed via a PorterStemmer
+> Each reddit comment was stringently preprocessed before being passed into a model. Non-alphanumeric characters were removed with a RegexpTokenizer. Next misspelled words were corrected via the Speller function in the autocorrect module. All english stopwords were removed, and each word was stemmed via a PorterStemmer.
 
 
 ## [Modelling](NLP_Modelling.ipynb)
@@ -21,9 +21,12 @@
 
 
 ## Future Directions:
-*Explore more preprocessing options
-*Drill into coefficients and frequency counts for each model to establish interpretable conclusions
-*Look at only post titles
+*Explore more preprocessing options  
+
+*Drill into coefficients and frequency counts for each model to establish interpretable conclusions  
+
+*Look at only post titles  
+
 *Improve code with nested pipelines and nested grid searches
 
 
