@@ -21,13 +21,13 @@
 
 
 ## Future Directions:
-*Explore more preprocessing options  
+* Explore more preprocessing options  
 
-*Drill into coefficients and frequency counts for each model to establish interpretable conclusions  
+* Drill into coefficients and frequency counts for each model to establish interpretable conclusions  
 
-*Look at only post titles  
+* Look at only post titles  
 
-*Improve code with nested pipelines and nested grid searches
+* Improve code with nested pipelines and nested grid searches
 
 
 ### Slide Deck
